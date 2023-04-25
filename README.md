@@ -30,5 +30,6 @@
 
 Прикрепите к файлу README.md скриншот конфигурации из интерфейса Prometheus вкладки Status > Configuration
 Прикрепите к файлу README.md скриншот из интерфейса Prometheus вкладки Status > Targets, чтобы было видно минимум два эндпоинта
+
 ![screen](img/3.jpg)
 ![screen](img/4.jpg)
